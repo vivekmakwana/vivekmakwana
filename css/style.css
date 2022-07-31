@@ -2799,8 +2799,8 @@ h6 {
   color: #ffffff; }
 
 .subscription_box {
-  background: url(../img/subscribe-bg.png) no-repeat center;
-  padding: 150px 0px; }
+  background: url(../img/banner/common-banner.png) no-repeat center;
+  padding: 150px 8rem; }
   @media (max-width: 767px) {
     .subscription_box {
       background: #854fee;
@@ -3317,3 +3317,4 @@ h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+

@@ -405,8 +405,10 @@
 }
 
 .subscription_box {
-	background: url(../img/subscribe-bg.png) no-repeat center;
-	padding: 150px 0px;
+	display: flex;
+	flex-direction: column;
+	background: url(../img/banner/common-banner.png) no-repeat center;
+	padding: 150px 8rem;
 	@media (max-width: 767px) {
 		padding: 50px 20px;
 	}
